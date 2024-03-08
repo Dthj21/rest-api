@@ -1,11 +1,15 @@
 {
   "name": "restapi",
   "version": "1.0.0",
-  "description": "crud postgresql\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\"\u001b[C\u001b[DC\u001b[C\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C: \"crud postgresql\",",
+  "description": "crud postgresql",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "keywords": [
+	  "rest"
+  ],
   "author": "Diego Tristan",
   "license": "ISC",
   "dependencies": {
